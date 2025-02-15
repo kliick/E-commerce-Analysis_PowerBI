@@ -18,6 +18,16 @@
 
 ---
 
+## Структура проекта
+
+```
+E-commerce-Analysis_PowerBI/
+├── data/                       # Данные для анализа
+├── notebook.ipynb              # Jupyter-ноутбук с анализом данных
+├── requirements.txt            # Зависимости проекта
+└── README.md                   # Этот файл
+```
+
 ## **Визуализация в Power BI**  
 ...
 
