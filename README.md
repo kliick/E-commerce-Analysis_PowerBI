@@ -22,16 +22,17 @@
 
 ```
 E-commerce-Analysis_PowerBI/
-├── data/                       # Данные для анализа
-├── notebook.ipynb              # Jupyter-ноутбук с анализом данных
-├── requirements.txt            # Зависимости проекта
-└── README.md                   # Этот файл
+├── data/                            # Данные для анализа
+├── E-commerce_project_powerbi.pbix  #Дашборд PowerBI
+├── notebook.ipynb                   # Jupyter-ноутбук с анализом данных
+├── requirements.txt                 # Зависимости проекта
+└── README.md                        # Этот файл
 ```
 
 ## **Визуализация в Power BI**  
-...
 
----
+![image](https://github.com/user-attachments/assets/2678cbed-e1e0-441c-b76f-b3aa67bfcdc7)
+
 
 ## **Основные выводы**  
 
